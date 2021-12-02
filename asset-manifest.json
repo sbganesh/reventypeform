@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/reventypeform/static/js/main.b618543e.chunk.js",
-    "main.js.map": "/reventypeform/static/js/main.b618543e.chunk.js.map",
+    "main.js": "/reventypeform/static/js/main.70ee6e2e.chunk.js",
+    "main.js.map": "/reventypeform/static/js/main.70ee6e2e.chunk.js.map",
     "runtime-main.js": "/reventypeform/static/js/runtime-main.6f89aa11.js",
     "runtime-main.js.map": "/reventypeform/static/js/runtime-main.6f89aa11.js.map",
     "static/js/2.2892eebb.chunk.js": "/reventypeform/static/js/2.2892eebb.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.6f89aa11.js",
     "static/js/2.2892eebb.chunk.js",
-    "static/js/main.b618543e.chunk.js"
+    "static/js/main.70ee6e2e.chunk.js"
   ]
 }
